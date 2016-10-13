@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidProjects\JocDeProva.v01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="558596984c7821b79b8d2ebddf02ef6f1ead2d46">
+        <dex dex="C:\AndroidProjects\JocDeProva.v01\app\build\intermediates\pre-dexed\debug\instant-run_ac9de30679de4235fe218c4e5f17cf4e6fe89d1a.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\JocDeProva.v01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bee6c280586212e521b02e06b6e810304fc660e8">
+        <dex dex="C:\AndroidProjects\JocDeProva.v01\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_661648a82ead72b5354a8879390c1619392f194f.jar" />
+    </item>
+
+</items>
